@@ -7,3 +7,4 @@ def parrot(string="squawk!")
 end  
   
 parrot() 
+parrot("Hello!")
